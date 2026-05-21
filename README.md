@@ -6,9 +6,9 @@ I work across full-stack and serverless projects, with experience in AWS-native 
 
 ## A few things I work with 💻
 
-Languages: Python, JavaScript, TypeScript, Java, Magik
-Cloud & Data: AWS, Google Cloud, Amazon S3, AWS Lambda, Amazon SQS, AWS IAM, AWS DynamoDB, Amazon Bedrock, CloudWatch, AWS CDK, BigQuery, Looker Studio
-Engineering & Delivery: REST APIs, SOAP services, data modeling, data quality, data observability, technical documentation, QA, testing and validation
+- **Languages:** Python, JavaScript, TypeScript, Java, Magik
+- **Cloud & Data:** AWS, Google Cloud, Amazon S3, AWS Lambda, Amazon SQS, AWS IAM, DynamoDB, Amazon Bedrock, CloudWatch, AWS CDK, BigQuery, Looker Studio
+- **Engineering & Delivery:** REST APIs, SOAP services, data modeling, data quality, data observability, technical documentation, QA, testing and validation
 
 ## What I'm focused on right now 🛠️
 
@@ -19,10 +19,11 @@ Learning more about deploying AI models into real-world workflows
 
 ## Certifications & Learning 🎓
 
-Building Generative AI-Powered Applications with Python — IBM
-Foundations of Software Testing and Validation — University of Leeds
-Crafting Quality Code — University of Toronto
-Complete Angular Course 2025 — Udemy
+- **Databricks Machine Learning Associate Certification** — final preparation stage
+- **Building Generative AI-Powered Applications with Python** — IBM
+- **Foundations of Software Testing and Validation** — University of Leeds
+- **Crafting Quality Code** — University of Toronto
+- **Complete Angular Course 2025** — Udemy
 
 ## Languages 🌎
 
