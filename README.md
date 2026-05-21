@@ -13,8 +13,11 @@ I work across full-stack and serverless projects, with experience in AWS-native 
 ## What I'm focused on right now 🛠️
 
 Building full-stack systems and APIs for web and data-driven applications
+
 Exploring AI and NLP workflows for sentiment analysis, text classification, and data enrichment
+
 Growing my experience with serverless AWS patterns and scalable cloud-native architectures
+
 Learning more about deploying AI models into real-world workflows
 
 ## Certifications & Learning 🎓
@@ -28,7 +31,9 @@ Learning more about deploying AI models into real-world workflows
 ## Languages 🌎
 
 🇪🇸 Spanish (Native)
+
 🇺🇸 English (Full professional)
+
 🇫🇷 French (Elementary)
 
 
