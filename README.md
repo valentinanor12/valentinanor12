@@ -10,16 +10,6 @@ I work across full-stack and serverless projects, with experience in AWS-native 
 - **Cloud & Data:** AWS, Google Cloud, Amazon S3, AWS Lambda, Amazon SQS, AWS IAM, DynamoDB, Amazon Bedrock, CloudWatch, AWS CDK, BigQuery, Looker Studio
 - **Engineering & Delivery:** REST APIs, SOAP services, data modeling, data quality, data observability, technical documentation, QA, testing and validation
 
-## What I'm focused on right now 🛠️
-
-Building full-stack systems and APIs for web and data-driven applications
-
-Exploring AI and NLP workflows for sentiment analysis, text classification, and data enrichment
-
-Growing my experience with serverless AWS patterns and scalable cloud-native architectures
-
-Learning more about deploying AI models into real-world workflows
-
 ## Certifications & Learning 🎓
 
 - **Databricks Machine Learning Associate Certification** — final preparation stage
